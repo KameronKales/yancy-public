@@ -1,8 +1,8 @@
 # ----
 # Site
 
-title: Hydra Template
-url: "https://proud-alligator.cloudvent.net"
+title: Yancy
+url: "https://yancy.app"
 baseurl:
 google_analytics_key:
 google_maps_javascript_api_key:
@@ -10,11 +10,11 @@ disqus_shortname:
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
-description: Product marketing template for Jekyll.
+description: Protect Your Website From Spam With 1 API.
 author:
-  name:
+  name: Kameron Kales
   email:
-  twitter: # twitter username without the @ symbol
+  twitter: kameronkales
 social:
   name: Hydra Template
   links:
@@ -86,18 +86,9 @@ exclude:
   - README.md
   - LICENCE
 
-# -----------
-# CloudCannon
-
 social_icons:
   - Facebook
-  - Google Plus
-  - Instagram
-  - LinkedIn
-  - Pinterest
-  - Tumblr
   - Twitter
-  - YouTube
   - RSS
 
 _comments:
